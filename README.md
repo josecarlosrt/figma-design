@@ -1,7 +1,3 @@
-Aquí tienes un README en inglés pulido, profesional y bien detallado. Puedes modificar según el nombre del proyecto y añadir screenshots o enlaces si los tienes.
-
----
-
 # Figma to Code - Responsive Design Implementation
 
 This project is a direct **translation of a Figma design into functional HTML**, with a strong emphasis on pixel-perfect implementation using **Tailwind CSS**, minimal **JavaScript**, and no front-end framework. It serves as a focused showcase of my ability to take a design file and bring it to life in the browser, faithfully, responsively, and cleanly.
