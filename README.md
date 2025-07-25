@@ -43,9 +43,9 @@ This project reflects my **advanced proficiency (5/5)** in implementing designs 
 └── README.md
 ```
 
-## 🖼️ Screenshots
+## 🔗Figma File Link
 
-> *\[Insert screenshots or comparison of Figma vs. Code output]*
+> https://www.figma.com/design/P4fv73N2KMhVhZho7ucdD0/Figma-Design-Implementation-JR?node-id=0-1&t=ngHR6VcTnyIUNy6P-1 
 
 ## 📌 Conclusion
 
