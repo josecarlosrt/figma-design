@@ -8,7 +8,7 @@ This project is a direct **translation of a Figma design into functional HTML**,
 
 ## 🔍 Purpose
 
-The goal of this project is **not** to build a fully functional web app or complex UI system, but rather to **demonstrate my proficiency in translating static design files into clean, component-based, semantic code**, staying as true as possible to the original layout, spacing, typography, and overall intent of the design.
+The goal of this project is **not** to build a fully functional web app or complex UI system, but rather to **demonstrate my proficiency in translating static design files into clean, semantic code**, staying as true as possible to the original layout, spacing, typography, and overall intent of the design.
 
 ## ✨ Key Highlights
 
@@ -54,8 +54,4 @@ This project reflects my **advanced proficiency (5/5)** in implementing designs 
 ## 📌 Conclusion
 
 This project is a simple but focused exercise in **translating UI designs with precision and care**. It demonstrates my ability to pay attention to detail, work within constraints, and build highly accurate front-end layouts using modern CSS utilities and tooling.
-
----
-
-¿Quieres que lo conecte con el texto del email que te están pidiendo (lo de “rate your proficiency…”)? Puedo ayudarte a resumirlo en una respuesta fuerte también.
 
